@@ -1,0 +1,6 @@
+{
+  "name": "GOYE SERVICES HUB - CAC + Website + AI Bot",
+  "description": "Register, Build, and Automate your business with GOYE SERVICES HUB. CAC Business Registration, Custom Website, and AI WhatsApp Automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
